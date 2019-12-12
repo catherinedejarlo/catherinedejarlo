@@ -16,5 +16,5 @@ public class LabExer1A
 			      
 			      System.out.print(nickName[c]);
 			      }		  
-	}
+	}//Me!
 }
